@@ -1,0 +1,46 @@
+CSS Selectors
+
+1. Element Selector
+
+			element{
+						property:value;
+			}
+
+2. ID Selector   #
+		Syntax
+		element#value{
+					property:value;
+		}
+		
+		Example
+		div#a1{
+					color:red;
+		}
+
+3. Psudo Class Selector  :
+
+		element:hover{
+		}
+
+
+CSS BOX Model Concept
+
+How you can create a box
+1. Width
+2. Height
+3. Background color
+
+Live server give you hot reloading
+
+
+There are 2 types of HTML Tags.
+1. Block Level Elements
+			Start with a new line	
+			
+			Eg. div,p
+2. Inline Elements
+			Never start with a new line. They remain in the queue
+			span,em,strong
+
+
+https://www.w3schools.com/tags/ref_colornames.asp
